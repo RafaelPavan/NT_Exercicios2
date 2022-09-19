@@ -1,0 +1,15 @@
+File_A.batata
+AAA
+AAAzzz
+AAA111444
+
+File_B.batata
+BBB
+BBBzzz
+BBB111444
+
+File_C.batata
+CCC
+CCCzzz
+CCC111444
+
